@@ -62,17 +62,19 @@
   margin-top: 10px;
   padding: 6px 8px;
   background-color: #dc3545;
-  color: #fff;
+  color: #5e4747;
   border: none;
   border-radius: 15px;
   cursor: pointer;
 }
 .update {
-  background-color: #16a0b8;
+  background-color: #0de547;
 }
-.delete:hover,
-.update:hover {
+.delete:hover{
   background-color: #c82333;
+}
+.update:hover {
+  background-color: #5b77e7;
 }
 
 .addHome {
